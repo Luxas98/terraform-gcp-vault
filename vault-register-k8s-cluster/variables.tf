@@ -1,0 +1,9 @@
+variable "vault_address" {}
+variable "vault_token" {}
+variable "vault_ca" {}
+variable "vault_cluster_cert" {}
+variable "region" {}
+variable "cluster_endpoint" {}
+variable "cluster_name" {}
+variable "cluster_ca" {}
+variable "project_id" {}
